@@ -1,6 +1,6 @@
 <p align='center'><img height='300' src='https://user-images.githubusercontent.com/31500911/143441414-344e2fc4-7bd1-4cc3-a09c-8ffa8b2d4e0f.png'></p>
 <h1 align='center'> Analysis deploy using Streamlit on Heroku platform</h1>
-<h3 align='center'> https://olympics-analysis-kamal.herokuapp.com/</h3>
+<h3 align='center'> https://olympics-data-analysis-vipin.herokuapp.com/</h3>
 <br>
 <p>In this project I have done analysis of 120 Years of Summer Olympics by Medal tally, Overall Analysis, Country-wise Analysis and Athletes-wise Analysis</p>
 <br>
